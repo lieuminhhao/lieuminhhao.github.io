@@ -525,13 +525,13 @@ form.example button {
 	margin-top: 25%;
 }
 .ctn_lon h5 {
-	padding-top: 25%;
-	padding-bottom: 25%;
+	padding: 0px 0px 5% 30px;
 }
 .ctn_lon p {
 	font-size: 16px;
 	font-weight: 700;
 	padding: 0px 0px 5% 30px;
+	margin: 0px;
 	color: #FFFFFF;
 }
 .ctn_lon img {
