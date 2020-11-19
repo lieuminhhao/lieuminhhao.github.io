@@ -504,6 +504,17 @@ footer p {
 		width: 90%;
 		margin: 5% 5%;
 	}
+	.banner2_ctn h6{
+		margin: 10% 5%;
+	}
+	.banner2_ctn h5{
+		padding: 0px;
+		margin: 5% 5%;
+	}
+	.banner2_ctn p{
+		padding: 0px;
+		margin: 0px 5%;
+	}
 	.ctn_lon{
 		width: 90%;
 	}
