@@ -204,7 +204,8 @@ h1 {
 	font-size: 21px;
 	font-weight: 700;
 	float: left;
-	padding: 30px;
+	padding: 20px;
+	margin: 0px;
 }
 .banner2_ctn p {
 	font-size: 14px;
