@@ -48,7 +48,7 @@
 	text-align: center;
 	color: #222222;
 }
-.menu a:hover{
+.menu a:hover {
 	color: #734df2;
 }
 form.example input[type=text] {
@@ -428,163 +428,162 @@ footer p {
 	filter: drop-shadow(2px 2px 2px #505050);
 }
 
-
-@media screen and (max-width: 375px){
-	.logo{
-		width: 60%;
-		margin: 3vh 20%;
-	}
-	.banner_phai{
-		width: 100%;
-		margin: 0px;
-		padding: 0px;
-		float: left;
-	}
-	nav{
-		width: 100%;
-	}
-	.menu{
-		width: 100%;
-		margin: 5% 0px;
-	}
-	.menu ul{
-		width: 100%;
-		text-align: center;
-		margin-bottom: 5%;
-	}
-	.menu li{
-		margin: 0px 3%;
-	}
-	.menu a{
-		font-size: 14px;
-	}
-	.example{
-		width: 100%;
-		margin-bottom: 5%
-	}
-	form.example input[type=text]{
-		width: 50%;
-		margin-left: 20%;
-	}
-	form.example button{
-		width: 10%;
-	}
-	.banner h4{
-		padding: 0px;
-		text-align: center;
-	}
-	.banner h2{
-		padding: 5% 10%;
-	}
-	.banner p{
-		text-align: left;
-		padding: 0px 10%;
-	}
-	.banner h3{
-		text-align: left;
-		padding: 5% 10%;
-	}
-	.banner_img{
-		position:relative;
-		margin: 0px 0px 10% 0px;
-		z-index: auto;
-		width: 100%;
-	}
-	.banner_solid{
-		display: none;
-	}
-	.banner2{
-		height: auto;
-	}
-	.banner2_ctn{
-		width: 100%;
-		margin: 10% 0px 10% 0px;
-	}
-	.ctn_nho{
-		width: 90%;
-		margin: 5% 5%;
-	}
-	.banner2_ctn h6{
-		margin: 7% 5%;
-	}
-	.banner2_ctn h5{
-		padding: 0px;
-		margin: 5% 5%;
-	}
-	.banner2_ctn p{
-		padding: 0px;
-		margin: 0px 5%;
-	}
-	.ctn_lon{
-		width: 90%;
-	}
-	.ctn_lon #ctn_lon{
-		width: 90%;
-	}
-	.ctn_lon h6{
-		margin-top: 25%;
-	}
-	.ctn_lon h5{
-		padding-top: 25%;
-		padding-bottom: 25%;
-	}
-	.ctn_lon p{
-		font-size: 16px;
-		font-weight: 700;
-		padding: 0px 0px 5% 30px;
-		color: #FFFFFF;
-	}
-	.ctn_lon img{
-		display: none;
-	}
-	.ctn_lon{
-		background: url("../image/img03.png") center no-repeat;
-	}
-	.banner3{
-		height: auto;
-		margin: 0px;
-	}
-	.banner3_ctn{
-		width: 90%;
-		margin: 15% 5% 0px 5%;
-	}
-	.person{
-		width: 100%;
-		margin: 0px 0px 10% 0px;
-	}
-	.iconbar{
-		margin: 20% 0px;
-	}
-	.iconbar img{
-		margin: 0px;
-		margin-left: 11%;
-		width: 10%;
-	}
-	footer .menu{
-		margin: 0px;
-	}
-	.banner4{
-		display: none;
-	}
-	.social{
-		width: 100%;
-		margin: 15% 0px;
-	}
-	.social img{
-		width: 10%;
-		height: auto;
-		margin: 0px 7%;
-	}
-	footer p{
-		padding: 10%;
-	}
-	footer br{
-		bottom: 0px;
-	}
-	#backbtn{
-		width: 30px;
-		height: 30px;
-		left: 20px;
-		bottom: 107px;
-	}
+@media screen and (max-width: 375px) {
+.logo {
+	width: 60%;
+	margin: 3vh 20%;
+}
+.banner_phai {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+nav {
+	width: 100%;
+}
+.menu {
+	width: 100%;
+	margin: 5% 0px;
+}
+.menu ul {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 5%;
+}
+.menu li {
+	margin: 0px 3%;
+}
+.menu a {
+	font-size: 14px;
+}
+.example {
+	width: 100%;
+	margin-bottom: 5%
+}
+form.example input[type=text] {
+	width: 50%;
+	margin-left: 20%;
+}
+form.example button {
+	width: 10%;
+}
+.banner h4 {
+	padding: 0px;
+	text-align: center;
+}
+.banner h2 {
+	padding: 5% 10%;
+}
+.banner p {
+	text-align: left;
+	padding: 0px 10%;
+}
+.banner h3 {
+	text-align: left;
+	padding: 5% 10%;
+}
+.banner_img {
+	position: relative;
+	margin: 0px 0px 10% 0px;
+	z-index: auto;
+	width: 100%;
+}
+.banner_solid {
+	display: none;
+}
+.banner2 {
+	height: auto;
+}
+.banner2_ctn {
+	width: 100%;
+	margin: 10% 0px 10% 0px;
+}
+.ctn_nho {
+	width: 90%;
+	margin: 5% 5%;
+}
+.banner2_ctn h6 {
+	margin: 7% 5%;
+}
+.banner2_ctn h5 {
+	padding: 0px;
+	margin: 5% 5%;
+}
+.banner2_ctn p {
+	padding: 0px;
+	margin: 0px 5%;
+}
+.ctn_lon {
+	width: 90%;
+}
+.ctn_lon #ctn_lon {
+	width: 90%;
+}
+.ctn_lon h6 {
+	margin-top: 25%;
+}
+.ctn_lon h5 {
+	padding-top: 25%;
+	padding-bottom: 25%;
+}
+.ctn_lon p {
+	font-size: 16px;
+	font-weight: 700;
+	padding: 0px 0px 5% 30px;
+	color: #FFFFFF;
+}
+.ctn_lon img {
+	display: none;
+}
+.ctn_lon {
+	background: url("../image/img03.png") center no-repeat;
+}
+.banner3 {
+	height: auto;
+	margin: 0px;
+}
+.banner3_ctn {
+	width: 90%;
+	margin: 15% 5% 0px 5%;
+}
+.person {
+	width: 100%;
+	margin: 0px 0px 10% 0px;
+}
+.iconbar {
+	margin: 20% 0px;
+}
+.iconbar img {
+	margin: 0px;
+	margin-left: 11%;
+	width: 10%;
+}
+footer .menu {
+	margin: 0px;
+}
+.banner4 {
+	display: none;
+}
+.social {
+	width: 100%;
+	margin: 15% 0px;
+}
+.social img {
+	width: 10%;
+	height: auto;
+	margin: 0px 7%;
+}
+footer p {
+	padding: 10%;
+}
+footer br {
+	bottom: 0px;
+}
+#backbtn {
+	width: 30px;
+	height: 30px;
+	left: 20px;
+	bottom: 107px;
+}
 }
